@@ -1,0 +1,14 @@
+img {
+  border-radius: 50%;
+  width: 10%;
+  float: left;
+  margin: 0 20px 20px;
+}
+
+hr {
+  clear: left;
+}
+
+table {
+  border-spacing: 10px;
+}
